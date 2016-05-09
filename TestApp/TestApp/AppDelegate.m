@@ -17,6 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     NSLog(@"Developer Fix 1");
+    NSLog(@"Developer Fix 2");
     // Override point for customization after application launch.
     return YES;
 }
