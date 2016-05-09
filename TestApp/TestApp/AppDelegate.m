@@ -19,6 +19,7 @@
     NSLog(@"Developer Fix 1");
     NSLog(@"Developer Fix 2");
     NSLog(@"Developer Fix 3");
+    NSLog(@"Developer Fix 4");
     // Override point for customization after application launch.
     return YES;
 }
